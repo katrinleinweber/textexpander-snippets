@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>2</integer>
+		<key>groupName</key>
+		<string>MD Markdown</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>](</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-08-24T19:37:03Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2019-10-20T13:38:53Z</date>
+			<key>plainText</key>
+			<string>](%clipboard) </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>CB0D9A0A-A7AC-4BB1-9369-9E0B057811D5</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>[@</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-02-11T19:04:48Z</date>
+			<key>label</key>
+			<string>[@%clipboard]</string>
+			<key>modificationDate</key>
+			<date>2019-10-20T13:39:03Z</date>
+			<key>plainText</key>
+			<string>[@%clipboard] </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>C9A3CECD-972C-46A4-B3F2-A5A3FDF71D17</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>]"(</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2013-08-24T19:37:03Z</date>
+			<key>label</key>
+			<string>](%clipboard "")</string>
+			<key>modificationDate</key>
+			<date>2019-10-20T13:40:21Z</date>
+			<key>plainText</key>
+			<string>](%clipboard "%|") </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>3872BA3C-8479-4F03-AE05-498900C6921D</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>-[</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2015-07-06T14:17:59Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2015-07-06T14:18:04Z</date>
+			<key>plainText</key>
+			<string>- [ ] </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>83B5089B-09D2-4C96-B7C9-468AF607C594</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>![i</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2017-08-03T15:33:08Z</date>
+			<key>label</key>
+			<string>![](img/%clipboard)</string>
+			<key>modificationDate</key>
+			<date>2019-10-20T13:39:10Z</date>
+			<key>plainText</key>
+			<string>![](img/%clipboard) </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>B61D55E1-6DAC-41EC-9F5E-CD8408626565</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>[:</string>
+			<key>abbreviationMode</key>
+			<integer>1</integer>
+			<key>creationDate</key>
+			<date>2018-01-18T09:23:06Z</date>
+			<key>label</key>
+			<string></string>
+			<key>modificationDate</key>
+			<date>2019-10-20T13:40:44Z</date>
+			<key>plainText</key>
+			<string>[%|]: %clipboard</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>BC2D73B4-1FE2-47AB-A36A-BFA0AB7EBBBD</string>
+		</dict>
+	</array>
+</dict>
+</plist>
